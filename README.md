@@ -9,6 +9,16 @@
 
 ---
 
+## 🔗 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sejal-tembhekar-276076374/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+---
+
 ## 💫 About Me
 
 I am a Computer Science student currently building strong foundations in software development.  
@@ -19,6 +29,26 @@ I am passionate about learning new technologies and improving my problem-solving
 - 🌐 Web Development: **HTML, CSS, JavaScript**
 - 🎯 Goal: To become a skilled Software Engineer
 - 🚀 Actively building academic and personal projects
+
+---
+
+## 💼 What I Do
+
+- 💻 Practice Data Structures & Algorithms  
+- 🌐 Build responsive websites using HTML, CSS & JavaScript  
+- 🤖 Develop beginner-friendly AI-based projects  
+- 🏗️ Work on backend logic using Java & Python  
+- 📚 Continuously improve coding and problem-solving skills  
+
+---
+
+## 🚀 Interests
+
+- 🧠 Problem Solving & Logical Thinking  
+- 🌐 Full Stack Web Development  
+- 🤖 AI-based Learning Systems  
+- 📊 Clean Code & Structured Programming  
+- 💃 Dancing & 🎬 Watching Movies  
 
 ---
 
