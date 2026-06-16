@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sejal Tembhekar</h1>
-<h3 align="center">Aspiring Software Engineer | Java • Python • Web Development Learner</h3>
+<h3 align="center">Aspiring Software Engineer | Java • Python • Cloud Computing</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
